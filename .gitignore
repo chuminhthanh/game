@@ -1,0 +1,39 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Executables
+*.exe
+*.out
+*.app
+/MiniGameStarter/BIN-Nvidia/TrainingFramework.pdb
+/MiniGameStarter/BIN-Nvidia/Utilities.idb
+/MiniGameStarter/BIN-Nvidia/Utilities.pdb
+/MiniGameStarter/BIN-Nvidia/UtilitiesD.lib
+/MiniGameStarter/BIN-Nvidia/TrainingFramework.exe
+/MiniGameStarter/.vs
+/MiniGameStarter/TrainingFramework/Debug-Nvidia
+/MiniGameStarter/Utilities/Debug-Nvidia
+/MiniGameStarter/freetype/objs
